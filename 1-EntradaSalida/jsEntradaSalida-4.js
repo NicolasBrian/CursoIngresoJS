@@ -4,6 +4,8 @@
 */
 function mostrar()
 {
+	var alerta = prompt("algun dato");
+	document.getElementById("elNombre").value = alerta;
+
 
 }
-

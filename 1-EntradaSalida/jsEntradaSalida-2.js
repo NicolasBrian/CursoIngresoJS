@@ -2,6 +2,7 @@
 y luego mostrarlo por 'alert' al presionar el botón  'mostrar'*/
 function mostrar()
 {
-	
+    alert = prompt("dato") 
+    
 }
 
